@@ -2,6 +2,8 @@ Dynamic Syntax (DS) is an action-based, word-by-word incremental, semantic gramm
 
 Here you can find the implementation of a DS semantic parser (DyLan) <del>in Java</del> finally [in python](https://github.com/incrementaliser/DynamicSyntax)!
 
+Please check out [DS Workbench](https://ds-workbench.vercel.app/) to try DS semantic parser in action, or knowing more about the research on DS/TTR/Dialogue.
+
 Dynamic Syntax on:
 
 - [Wikipeadia](https://en.wikipedia.org/wiki/Dynamic_syntax)
